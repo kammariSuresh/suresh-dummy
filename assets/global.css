@@ -119,3 +119,10 @@ a {
 }
 
 
+body {
+    cursor: auto; /* Default cursor for desktops */
+}
+
+.hide-cursor {
+    cursor: none; /* Hide cursor */
+}
